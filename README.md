@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Science & Business Analytics](https://github.com/MelquisedecS/NSW-Fuel-Price-Analysis-and-Forecast-2016-2025-)
 
-- 🌱 I’m currently learning data science and Business Analytics **Python, SQL Server, Power BI, , ML,**
+- 🌱 I’m currently learning Data Science and Business Analytics **Python, SQL Server, Power BI, , ML,**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/code/melquesedecsebastiao/perfil-de-risco-de-cr-dito-em-cliente](https://www.kaggle.com/code/melquesedecsebastiao/perfil-de-risco-de-cr-dito-em-cliente)
 
